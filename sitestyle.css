@@ -11,13 +11,13 @@ body {
   border-radius: 10px;
 }
 
-.game1 {
+.game1 .game2 {
   width: 135px;
   height: 135px;
   border-radius: 10px;
 }
 
-.wrap1 {
+.wrap1 .wrap2 {
   background-color: white;
   width: 140px;
   padding: 8px;
