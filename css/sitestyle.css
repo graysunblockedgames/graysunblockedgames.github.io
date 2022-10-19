@@ -1,0 +1,59 @@
+body {
+  background-color: orange;
+}
+
+.main {
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+  height: auto;
+  width: 85%;
+  background-color: orangered;
+  padding: 27px;
+  border-radius: 10px;
+}
+
+.game1 {
+  width: 135px;
+  height: 135px;
+  border-radius: 10px;
+}
+
+.game2 {
+  width: 135px;
+  height: 135px;
+  border-radius: 10px;
+}
+
+.wrap1 {
+  background-color: white;
+  width: 140px;
+  padding: 8px;
+  border-radius: 10px;
+  height: auto;
+  background-color: darkorange;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  color: white;
+}
+
+.wrap2 {
+  background-color: white;
+  width: 140px;
+  padding: 8px;
+  border-radius: 10px;
+  height: auto;
+  background-color: darkorange;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  color: white;
+}
+
+.gameWindow {
+  
+}
+
+.description
+
+{
+
+
+}
